@@ -1,0 +1,4 @@
+/data/somefile.txt
+/data/file.zip
+/data/data1/file.exe
+
