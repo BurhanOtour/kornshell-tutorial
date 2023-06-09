@@ -1,6 +1,6 @@
 # Introduction
 
-Learning the kronshell scripting language
+Learning the kornshell scripting language
 
 # Tutorials
 
